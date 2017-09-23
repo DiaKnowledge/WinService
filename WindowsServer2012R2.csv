@@ -1,0 +1,166 @@
+Name,DisplayName,Status
+ADWS,Active Directory Web Services,Running,☆不要
+AeLookupSvc,Application Experience,Running
+ALG,Application Layer Gateway Service,Stopped
+AppHostSvc,Application Host Helper Service,Running
+AppIDSvc,Application Identity,Stopped
+Appinfo,Application Information,Running
+AppMgmt,Application Management,Stopped
+AppReadiness,App Readiness,Stopped
+AppXSvc,AppX Deployment Service (AppXSVC),Stopped
+aspnet_state,ASP.NET State Service,Stopped
+AudioEndpointBuilder,Windows Audio Endpoint Builder,Stopped
+Audiosrv,Windows Audio,Stopped
+BFE,Base Filtering Engine,Running
+BITS,Background Intelligent Transfer Service,Stopped
+BrokerInfrastructure,Background Tasks Infrastructure Service,Running
+Browser,Computer Browser,Stopped
+CertPropSvc,Certificate Propagation,Running
+CertSvc,Active Directory Certificate Services,Running
+COMSysApp,COM+ System Application,Stopped
+CryptSvc,Cryptographic Services,Running
+DcomLaunch,DCOM Server Process Launcher,Running
+defragsvc,Optimize drives,Stopped
+DeviceAssociationService,Device Association Service,Stopped
+DeviceInstall,Device Install Service,Stopped
+Dfs,DFS Namespace,Running
+DFSR,DFS Replication,Running
+Dhcp,DHCP Client,Running
+DNS,DNS Server,Running
+Dnscache,DNS Client,Running
+dot3svc,Wired AutoConfig,Stopped
+DPS,Diagnostic Policy Service,Running
+DsmSvc,Device Setup Manager,Stopped
+DsRoleSvc,DS Role Server,Stopped
+Eaphost,Extensible Authentication Protocol,Stopped
+EFS,Encrypting File System (EFS),Running
+EventLog,Windows Event Log,Running
+EventSystem,COM+ Event System,Running
+fdPHost,Function Discovery Provider Host,Stopped
+FDResPub,Function Discovery Resource Publication,Stopped
+FontCache,Windows Font Cache Service,Running
+gpsvc,Group Policy Client,Running
+hidserv,Human Interface Device Service,Stopped
+hkmsvc,Health Key and Certificate Management,Stopped
+IEEtwCollectorService,Internet Explorer ETW Collector Service,Stopped
+IISADMIN,IIS Admin Service,Running
+IKEEXT,IKE and AuthIP IPsec Keying Modules,Stopped
+iphlpsvc,IP Helper,Running
+IsmServ,Intersite Messaging,Running
+Kdc,Kerberos Key Distribution Center,Running
+KdsSvc,Microsoft Key Distribution Service,Stopped
+KeyIso,CNG Key Isolation,Running
+KPSSVC,KDC Proxy Server service (KPS),Stopped
+KtmRm,KtmRm for Distributed Transaction Coordinator,Stopped
+LanmanServer,Server,Running
+LanmanWorkstation,Workstation,Running
+lltdsvc,Link-Layer Topology Discovery Mapper,Stopped
+lmhosts,TCP/IP NetBIOS Helper,Running
+LSM,Local Session Manager,Running
+MMCSS,Multimedia Class Scheduler,Stopped
+MpsSvc,Windows Firewall,Running
+MSDTC,Distributed Transaction Coordinator,Running
+MSiSCSI,Microsoft iSCSI Initiator Service,Stopped
+msiserver,Windows Installer,Stopped
+msoidsvc,Microsoft Online Services Sign-in Assistant,Running
+napagent,Network Access Protection Agent,Stopped
+NcaSvc,Network Connectivity Assistant,Stopped
+Netlogon,Netlogon,Running
+Netman,Network Connections,Stopped
+netprofm,Network List Service,Running
+NetTcpPortSharing,Net.Tcp Port Sharing Service,Running
+NlaSvc,Network Location Awareness,Running
+nsi,Network Store Interface Service,Running
+NTDS,Active Directory Domain Services,Running
+NtFrs,File Replication,Stopped
+PeerDistSvc,BranchCache,Running
+PerfHost,Performance Counter DLL Host,Stopped
+pla,Performance Logs & Alerts,Stopped
+PlugPlay,Plug and Play,Running
+PolicyAgent,IPsec Policy Agent,Running
+Power,Power,Running
+PrintNotify,Printer Extensions and Notifications,Stopped
+ProfSvc,User Profile Service,Running
+RasAuto,Remote Access Auto Connection Manager,Stopped
+RasMan,Remote Access Connection Manager,Stopped
+RemoteAccess,Routing and Remote Access,Stopped
+RemoteRegistry,Remote Registry,Running
+RpcEptMapper,RPC Endpoint Mapper,Running
+RpcLocator,Remote Procedure Call (RPC) Locator,Stopped
+RpcSs,Remote Procedure Call (RPC),Running
+RSoPProv,Resultant Set of Policy Provider,Stopped
+sacsvr,Special Administration Console Helper,Stopped
+SamSs,Security Accounts Manager,Running
+SCardSvr,Smart Card,Stopped
+ScDeviceEnum,Smart Card Device Enumeration Service,Stopped
+Schedule,Task Scheduler,Running
+SCPolicySvc,Smart Card Removal Policy,Stopped
+seclogon,Secondary Logon,Stopped
+SENS,System Event Notification Service,Running
+ServiceProviderRegistry,Windows Server Essentials Provider Registry Service,Running
+SessionEnv,Remote Desktop Configuration,Running
+SharedAccess,Internet Connection Sharing (ICS),Stopped
+ShellHWDetection,Shell Hardware Detection,Running
+silsvc,Server Infrastructure License Service,Running
+SmbHash,SMB Hash Generation Service,Running
+smphost,Microsoft Storage Spaces SMP,Running
+SNMPTRAP,SNMP Trap,Stopped
+Spooler,Print Spooler,Running
+sppsvc,Software Protection,Stopped
+SSDPSRV,SSDP Discovery,Stopped
+SstpSvc,Secure Socket Tunneling Protocol Service,Stopped
+svsvc,Spot Verifier,Stopped
+swprv,Microsoft Software Shadow Copy Provider,Stopped
+SysMain,Superfetch,Stopped
+SystemEventsBroker,System Events Broker,Running
+TabletInputService,Touch Keyboard and Handwriting Panel Service,Stopped
+TapiSrv,Telephony,Stopped
+TermService,Remote Desktop Services,Running
+Themes,Themes,Running
+THREADORDER,Thread Ordering Server,Stopped
+TieringEngineService,Storage Tiers Management,Stopped
+TrkWks,Distributed Link Tracking Client,Stopped
+TrustedInstaller,Windows Modules Installer,Stopped
+UALSVC,User Access Logging Service,Running
+UI0Detect,Interactive Services Detection,Stopped
+UmRdpService,Remote Desktop Services UserMode Port Redirector,Running
+upnphost,UPnP Device Host,Stopped
+VaultSvc,Credential Manager,Stopped
+vds,Virtual Disk,Running
+vmicguestinterface,Hyper-V ゲスト サービス インターフェース,Stopped
+vmicheartbeat,Hyper-V Heartbeat Service,Stopped
+vmickvpexchange,Hyper-V Data Exchange Service,Stopped
+vmicrdv,Hyper-V Remote Desktop Virtualization Service,Stopped
+vmicshutdown,Hyper-V Guest Shutdown Service,Stopped
+vmictimesync,Hyper-V Time Synchronization Service,Stopped
+vmicvss,Hyper-V Volume Shadow Copy Requestor,Stopped
+VSS,Volume Shadow Copy,Stopped
+W32Time,Windows Time,Running
+w3logsvc,W3C Logging Service,Stopped
+W3SVC,World Wide Web Publishing Service,Running
+WAS,Windows Process Activation Service,Running
+wbengine,Block Level Backup Engine Service,Running
+Wcmsvc,Windows Connection Manager,Running
+WcsPlugInService,Windows Color System,Stopped
+WdiServiceHost,Diagnostic Service Host,Stopped
+WdiSystemHost,Diagnostic System Host,Stopped
+Wecsvc,Windows Event Collector,Stopped
+WEPHOSTSVC,Windows Encryption Provider Host Service,Stopped
+wercplsupport,Problem Reports and Solutions Control Panel Support,Stopped
+WerSvc,Windows Error Reporting Service,Stopped
+WinHttpAutoProxySvc,WinHTTP Web Proxy Auto-Discovery Service,Running
+Winmgmt,Windows Management Instrumentation,Running
+WinRM,Windows Remote Management (WS-Management),Running
+wmiApSrv,WMI Performance Adapter,Stopped
+WPDBusEnum,Portable Device Enumerator Service,Stopped
+WSearch,Windows Search,Running
+WseComputerBackupSvc,Windows Server Essentials Computer Backup Service,Running
+WseEmailSvc,Windows Server Essentials 電子メール サービス,Running
+WseHealthSvc,Windows Server Essentials Health Service,Running
+WseMediaSvc,Windows Server Essentials Media Streaming Service,Running
+WseMgmtSvc,Windows Server Essentials Management Service,Running
+WseNtfSvc,Windows Server Essentials Notification Service,Running
+WseStorageSvc,Windows Server Essentials Storage Service,Running
+WSService,Windows Store Service (WSService),Stopped
+wuauserv,Windows Update,Running
+wudfsvc,Windows Driver Foundation - User-mode Driver Framework,Stopped
