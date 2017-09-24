@@ -1,45 +1,45 @@
 Name,DisplayName,Status
 ADWS,Active Directory Web Services,Running,☆不要
-AeLookupSvc,Application Experience,Running
+AeLookupSvc,Application Experience,Running,☆不要,起動アプリケーションに対して、アプリケーションの互換性のキャッシュ要求を処理する
 ALG,Application Layer Gateway Service,Stopped
-AppHostSvc,Application Host Helper Service,Running
+AppHostSvc,Application Host Helper Service,Running,☆不要,IIS関連
 AppIDSvc,Application Identity,Stopped
-Appinfo,Application Information,Running
+Appinfo,Application Information,Running,要,管理者権限実行を容易にする
 AppMgmt,Application Management,Stopped
 AppReadiness,App Readiness,Stopped
 AppXSvc,AppX Deployment Service (AppXSVC),Stopped
 aspnet_state,ASP.NET State Service,Stopped
 AudioEndpointBuilder,Windows Audio Endpoint Builder,Stopped
 Audiosrv,Windows Audio,Stopped
-BFE,Base Filtering Engine,Running
+BFE,Base Filtering Engine,Running,☆不要,ファイアウォールとIPsecポリシーを管理する
 BITS,Background Intelligent Transfer Service,Stopped
-BrokerInfrastructure,Background Tasks Infrastructure Service,Running
+BrokerInfrastructure,Background Tasks Infrastructure Service,Running,要,止められない
 Browser,Computer Browser,Stopped
-CertPropSvc,Certificate Propagation,Running
-CertSvc,Active Directory Certificate Services,Running
+CertPropSvc,Certificate Propagation,Running,要,スマートカード管理
+CertSvc,Active Directory Certificate Services,Running,☆不要,ActiveDirector証明書の管理？
 COMSysApp,COM+ System Application,Stopped
 CryptSvc,Cryptographic Services,Running
-DcomLaunch,DCOM Server Process Launcher,Running
+DcomLaunch,DCOM Server Process Launcher,Running,要,SSL証明書の管理
 defragsvc,Optimize drives,Stopped
 DeviceAssociationService,Device Association Service,Stopped
 DeviceInstall,Device Install Service,Stopped
-Dfs,DFS Namespace,Running
-DFSR,DFS Replication,Running
-Dhcp,DHCP Client,Running
-DNS,DNS Server,Running
-Dnscache,DNS Client,Running
+Dfs,DFS Namespace,Running,☆不要,分散ファイルシステム？
+DFSR,DFS Replication,Running,☆不要,分散ファイルシステム？
+Dhcp,DHCP Client,Running,☆不要,DHCP
+DNS,DNS Server,Running,☆不要DNSサーバ
+Dnscache,DNS Client,Running,要,DNSクライアント
 dot3svc,Wired AutoConfig,Stopped
-DPS,Diagnostic Policy Service,Running
+DPS,Diagnostic Policy Service,Running,☆不要,Windows診断サービス
 DsmSvc,Device Setup Manager,Stopped
 DsRoleSvc,DS Role Server,Stopped
 Eaphost,Extensible Authentication Protocol,Stopped
-EFS,Encrypting File System (EFS),Running
-EventLog,Windows Event Log,Running
-EventSystem,COM+ Event System,Running
+EFS,Encrypting File System (EFS),Running,☆不要,暗号化ファイルシステム
+EventLog,Windows Event Log,Running,要
+EventSystem,COM+ Event System,Running,要
 fdPHost,Function Discovery Provider Host,Stopped
 FDResPub,Function Discovery Resource Publication,Stopped
-FontCache,Windows Font Cache Service,Running
-gpsvc,Group Policy Client,Running
+FontCache,Windows Font Cache Service,Running,要
+gpsvc,Group Policy Client,Running,要
 hidserv,Human Interface Device Service,Stopped
 hkmsvc,Health Key and Certificate Management,Stopped
 IEEtwCollectorService,Internet Explorer ETW Collector Service,Stopped
